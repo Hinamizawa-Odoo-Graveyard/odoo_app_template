@@ -5,7 +5,7 @@
 <p align="center">
 <img src="readme_designs_git/hero_banner_read_me.jpg" alt="hero-banner" width=auto height=300/>
 </p>
-<span display="flex">
+<span display="flex" width=500 height=auto>
 <p align="center">
 Future implementation:
 <span>
