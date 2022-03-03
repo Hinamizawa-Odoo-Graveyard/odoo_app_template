@@ -5,9 +5,10 @@
 <p align="center">
 <img src="readme_designs_git/hero_banner_read_me.jpg" alt="hero-banner" width=auto height=300/>
 </p>
-<p align="center" display="flex">
+<span display="flex">
+<p align="center">
 Future implementation:
-<div>
+<span>
 <ul position: absolute;
 left: 50%;
 margin-left: -1em;>
@@ -18,8 +19,9 @@ margin-left: -1em;>
 <li>optimize the codes as much as possible.</li>
 
 </ul>
-</div>
-<div>
+</span>
+<span>
 <h3>Hey</h3>
-</div>
+</span>
+</span>
 </p>
